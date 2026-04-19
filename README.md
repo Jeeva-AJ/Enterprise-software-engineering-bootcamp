@@ -31,6 +31,7 @@ The goal is to build real-world skills used in modern software companies, includ
 
 ## 📁 Project Structure
 
+```
 enterprise-engineering/
 │
 ├── backend/         # Backend services and APIs
@@ -39,3 +40,4 @@ enterprise-engineering/
 ├── architecture/    # System design diagrams
 ├── scripts/         # Automation scripts
 └── experiments/     # Testing new ideas and concepts
+```
