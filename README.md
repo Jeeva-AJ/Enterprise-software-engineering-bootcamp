@@ -33,9 +33,9 @@ The goal is to build real-world skills used in modern software companies, includ
 
 enterprise-engineering/
 │
-├── backend/ # Backend services and APIs
-├── frontend/ # UI (if needed later)
-├── docs/ # Daily notes and learning reflections
-├── architecture/ # System design diagrams
-├── scripts/ # Automation scripts
-└── experiments/ # Testing new ideas and concepts
+├── backend/         # Backend services and APIs
+├── frontend/        # UI (if needed later)
+├── docs/            # Daily notes and learning reflections
+├── architecture/    # System design diagrams
+├── scripts/         # Automation scripts
+└── experiments/     # Testing new ideas and concepts
